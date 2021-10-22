@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Hao Tian"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Hao Tian"
 description              : &description "personal description"
 url                      : https://htian1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hao Tian"
   avatar           : "profile.png"
-  bio              : 
+  bio              : "PhD student @ SMU"
   location         : "Dallas, TX"
   employer         :
   pubmed           : 
