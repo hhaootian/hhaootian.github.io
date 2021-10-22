@@ -15,6 +15,21 @@ I'm a third year Ph. D. student majoring in Theoretical and Computational Chemis
 
 My research mainly lies in machine learning and molecular dynamics simulations. Currently, I focus on: (1) decipher protein allostery through machine learning based methods; (2) understand protein conformations through artificial intelligence.
 
+I will join Facebook as a software engineer intern in machine learning from May 2022. 
+
+News
+------
+
+<ul >
+    <li> <b> [2021.05] </b> Won the SMU Graduate Research Assisstant Award. </li>
+    <li> <b> [2021.05] </b> Presented at the Virtual 2021 Meeting in Miniature at UT Dallas. </li>
+    <li> <b> [2021.03] </b> Won the SMU Research Days Dean's Award. </li>
+    <li> <b> [2021.03] </b> Three abstracts have been accepted for live presentation in ACS meeting 2021. </li>
+    <li> <b> [2020.12] </b> Invited talk at the physical chemistry seminar of the University of Oklahoma. </li>
+    <li> <b> [2020.05] </b> Awarded as the Outstanding Teaching Assistant.</li>
+</ul>
+
+
 Publications
 ------
 
@@ -38,6 +53,11 @@ Awards
     <li>Meritorious Winner, Mathematical Contest in Modeling, Beijing University of Chemical Technology, 2018</li>
     <li>Outstanding Undergraduate, Beijing University of Chemical Technology, 2015</li>
 </ul>
+
+
+Site map
+------
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5x1b0jtxfqk&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=times_new_roman&amp;l=0" async="async"></script>
 
 <br/><br/>
 
