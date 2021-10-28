@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 About
 ------
 I'm a third year Ph. D. student majoring in Theoretical and Computational Chemistry at Southern Methodist University. I'm also pursuing a MS in Computer Science at Georgia Tech. I'm expected to graduate in 2023 spring. 
@@ -19,12 +20,17 @@ I will join Facebook as a software engineer intern in machine learning from May 
 News
 ------
 
-<ul >
-  <li> <b> [2021.05] </b> Won the SMU Graduate Research Assisstant Award. </li>
-  <li> <b> [2021.05] </b> Presented at the Virtual 2021 Meeting in Miniature at UT Dallas. </li>
+<ul>
+  <li> <b> [2021.10] </b> Manuscript accepted by Frontiers in Molecular Biosciences.</li>
+  <li> <b> [2021.05] </b> Won the SMU Graduate Research Assisstant Award.</li>
+  <li> <b> [2021.05] </b> Presented at the Virtual 2021 Meeting in Miniature at UT Dallas.</li>
   <li> <b> [2021.03] </b> Won the SMU Research Days Dean's Award. </li>
-  <li> <b> [2021.03] </b> Three abstracts have been accepted for live presentation in ACS meeting 2021. </li>
-  <li> <b> [2020.12] </b> Invited talk at the physical chemistry seminar of the University of Oklahoma. </li>
+  <li> <b> [2021.03] </b> Three abstracts have been accepted for live presentation in ACS meeting 2021.</li>
+  <li> <b> [2021.02] </b> Manuscript accepted by Machine Learning: Science and Technology.</li>
+  <li> <b> [2020.12] </b> Invited talk at the physical chemistry seminar of the University of Oklahoma.</li>
+  <li> <b> [2020.09] </b> Manuscript accepted by The Journal of Physical Chemistry B.</li>
+  <li> <b> [2020.08] </b> Manuscript accepted by Journal of Chemical Information and Modeling.</li>
+  <li> <b> [2020.07] </b> Manuscript accepted by Journal of Biomolecular Structure and Dynamics.</li>
   <li> <b> [2020.05] </b> Awarded as the Outstanding Teaching Assistant.</li>
 </ul>
 
@@ -33,7 +39,7 @@ Publications
 ------
 <ol reversed>
   <li>Xiao, S., <strong>Tian, H.</strong>, Tao, P. PASSer2.0: Accurate Prediction of Protein Allosteric Sites Through Automated Machine Learning <i>ChemRxiv</i> 2021. [<a href= "https://chemrxiv.org/engage/chemrxiv/article-details/616443ee2aca535ac45ff9b2">PDF</a>] </li>
-  <li><b>Tian, H.</b>, Jiang, X., Trozzi, F., Xiao, S., Larson E., Tao, P. Explore protein conformational space with variational autoencoder. <i>ChemRxiv</i> 2021. [<a href= "https://chemrxiv.org/engage/chemrxiv/article-details/6149299187a02de46f4294ec">PDF</a>] </li>
+  <li><b>Tian, H.</b>, Jiang, X., Trozzi, F., Xiao, S., Larson E., Tao, P. Explore protein conformational space with variational autoencoder. <i>Frontiers in Molecular Biosciences</i> 2021, in press. [<a href= "https://www.frontiersin.org/articles/10.3389/fmolb.2021.781635">PDF</a>] </li>
   <li><b>Tian, H.</b>, Jiang, X., Tao, P. PASSer: Protein Allosteric Sites Server. <i>Machine Learning: Science and Technology</i> 2021, 2, 035015. [<a href= "https://iopscience.iop.org/article/10.1088/2632-2153/abe6d6">PDF</a>] </li>
   <li>Song, Z., Zhou, H., <b>Tian, H.</b>, Wang X., Tao, P. Unraveling the energetic significance of chemical events in enzyme catalysis via machine-learning based regression approach. <i>Communications Chemistry</i> 2020, 3, 134. [<a href= "https://www.nature.com/articles/s42004-020-00379-w">PDF</a>] </li>
   <li><b>Tian, H.</b>; Trozzi, F.; Zoltowski, B.D.; Tao, P. Deciphering the Allosteric Process of Phaeodactylum tricornutum Aureochrome 1a LOV Domain. <i>The Journal of Physical Chemistry B</i> 2020, 124, 41, 8960–8972. [<a href= "https://pubs.acs.org/doi/10.1021/acs.jpcb.0c05842">PDF</a>] </li>
@@ -83,5 +89,5 @@ Site map
 <br/><br/>
 
 <p style="font-size: 13px; color: #A0A0A0; text-align:center">
-  Last updated on 2021/10/22
+  Last updated on 2021/10/28
 </p>
