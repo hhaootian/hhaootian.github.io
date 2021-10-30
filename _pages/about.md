@@ -38,7 +38,7 @@ News
 Publications
 ------
 <ol reversed>
-  <li>Xiao, S., <strong>Tian, H.</strong>, Tao, P. PASSer2.0: Accurate Prediction of Protein Allosteric Sites Through Automated Machine Learning <i>ChemRxiv</i> 2021. [<a href= "https://chemrxiv.org/engage/chemrxiv/article-details/616443ee2aca535ac45ff9b2">PDF</a>] </li>
+  <li>Xiao, S., <strong>Tian, H.</strong>, Tao, P. PASSer2.0: Accurate Prediction of Protein Allosteric Sites Through Automated Machine Learning. <i>ChemRxiv</i> 2021. [<a href= "https://chemrxiv.org/engage/chemrxiv/article-details/616443ee2aca535ac45ff9b2">PDF</a>] </li>
   <li><b>Tian, H.</b>, Jiang, X., Trozzi, F., Xiao, S., Larson E., Tao, P. Explore protein conformational space with variational autoencoder. <i>Frontiers in Molecular Biosciences</i> 2021, in press. [<a href= "https://www.frontiersin.org/articles/10.3389/fmolb.2021.781635">PDF</a>] </li>
   <li><b>Tian, H.</b>, Jiang, X., Tao, P. PASSer: Protein Allosteric Sites Server. <i>Machine Learning: Science and Technology</i> 2021, 2, 035015. [<a href= "https://iopscience.iop.org/article/10.1088/2632-2153/abe6d6">PDF</a>] </li>
   <li>Song, Z., Zhou, H., <b>Tian, H.</b>, Wang X., Tao, P. Unraveling the energetic significance of chemical events in enzyme catalysis via machine-learning based regression approach. <i>Communications Chemistry</i> 2020, 3, 134. [<a href= "https://www.nature.com/articles/s42004-020-00379-w">PDF</a>] </li>
