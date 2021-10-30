@@ -89,5 +89,5 @@ Site map
 <br/><br/>
 
 <p style="font-size: 13px; color: #A0A0A0; text-align:center">
-  Last updated on 2021/10/28
+  Last updated on 2021/10/30
 </p>
