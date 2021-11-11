@@ -10,11 +10,13 @@ redirect_from:
 
 About
 ------
-I'm a third year Ph. D. student majoring in Theoretical and Computational Chemistry at Southern Methodist University. I'm also pursuing a MS in Computer Science at Georgia Tech. I'm expected to graduate in 2023 spring. 
+I'm a third year Ph. D. student majoring in Theoretical and Computational Chemistry at Southern Methodist University. I'm also pursuing a MS in Computer Science at Georgia Tech. I'm expected to graduate in 2023 spring. My resume PDF is available <a href= "https://github.com/htian97/htian97.github.io/blob/master/files/resume.pdf">here</a>.
 
 My research mainly lies in machine learning and molecular dynamics simulations. Currently, I focus on: (1) decipher protein allostery through machine learning based methods; (2) understand protein conformations through artificial intelligence.
 
-I will join Facebook as a software engineer intern in machine learning from May 2022. 
+Feel free to contact me for research collaborations and software developer jobs.
+
+**I will join Facebook as a software engineer intern in machine learning from May 2022.**
 
 
 News
@@ -89,5 +91,5 @@ Site map
 <br/><br/>
 
 <p style="font-size: 13px; color: #A0A0A0; text-align:center">
-  Last updated on 2021/10/30
+  Last updated on 2021/11/10
 </p>
