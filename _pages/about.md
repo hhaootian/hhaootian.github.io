@@ -76,7 +76,7 @@ Presentations
 Awards
 ------
 <ul>
-  <li>Graduate Research Assisstant Award, Southern Methodist University, 2021</li>
+  <li>Graduate Research Assistant Award, Southern Methodist University, 2021</li>
   <li>Research Days Dean's Award, Southern Methodist University, 2021</li>
   <li>Outstanding Teaching Assistant, Southern Methodist University, 2020</li>
   <li>Meritorious Winner, Mathematical Contest in Modeling, Beijing University of Chemical Technology, 2018</li>
