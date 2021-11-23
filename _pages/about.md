@@ -30,10 +30,6 @@ News
   <li> <b> [2021.03] </b> Three abstracts have been accepted for live presentation in ACS meeting 2021.</li>
   <li> <b> [2021.02] </b> Manuscript accepted by Machine Learning: Science and Technology.</li>
   <li> <b> [2020.12] </b> Invited talk at the physical chemistry seminar of the University of Oklahoma.</li>
-  <li> <b> [2020.09] </b> Manuscript accepted by The Journal of Physical Chemistry B.</li>
-  <li> <b> [2020.08] </b> Manuscript accepted by Journal of Chemical Information and Modeling.</li>
-  <li> <b> [2020.07] </b> Manuscript accepted by Journal of Biomolecular Structure and Dynamics.</li>
-  <li> <b> [2020.05] </b> Awarded as the Outstanding Teaching Assistant.</li>
 </ul>
 
 
@@ -91,5 +87,5 @@ Site map
 <br/><br/>
 
 <p style="font-size: 13px; color: #A0A0A0; text-align:center">
-  Last updated on 2021/11/10
+  Last updated on 2021/11/23
 </p>
