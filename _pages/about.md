@@ -23,11 +23,12 @@ News
 ------
 
 <ul>
+  <li> <b> [2021.12] </b> One abstract has been accepted for poster presentation in ACS Spring 2022.</li>
   <li> <b> [2021.10] </b> Manuscript accepted by Frontiers in Molecular Biosciences.</li>
   <li> <b> [2021.05] </b> Won the SMU Graduate Research Assisstant Award.</li>
   <li> <b> [2021.05] </b> Presented at the Virtual 2021 Meeting in Miniature at UT Dallas.</li>
   <li> <b> [2021.03] </b> Won the SMU Research Days Dean's Award. </li>
-  <li> <b> [2021.03] </b> Three abstracts have been accepted for live presentation in ACS meeting 2021.</li>
+  <li> <b> [2021.03] </b> Three abstracts have been accepted for oral presentation in ACS Spring 2021.</li>
   <li> <b> [2021.02] </b> Manuscript accepted by Machine Learning: Science and Technology.</li>
   <li> <b> [2020.12] </b> Invited talk at the physical chemistry seminar of the University of Oklahoma.</li>
 </ul>
